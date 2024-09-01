@@ -1,0 +1,24 @@
+Quasar Games - License | Available since january 1st 2024, until modification.
+
+
+1. Grant of Use: You are permitted to use the scripts and other files in this repository solely for personal, non-commercial purposes. Any use of the contents beyond this scope requires explicit permission from us.
+
+2. Prohibited Actions:
+
+  - Decryption Prohibited: You are strictly prohibited from attempting to decrypt, reverse-engineer, or otherwise attempt to uncover the source code, algorithms, or any other proprietary elements of the scripts contained within this repository.
+
+  - No Commercial Use: You are not permitted to use the scripts, or any part thereof, for commercial purposes without obtaining prior written consent from us. This includes, but is not limited to, selling, licensing, sublicensing, or otherwise commercializing the scripts.
+
+3. Restrictions on Distribution: You may not distribute, share, or make publicly available any portion of the scripts or other files from this repository without prior written consent from us.
+
+4. Modifications and Derivative Works: You may not modify, create derivative works from, or use any part of the scripts and files in any other project without the explicit written permission from us.
+
+5. Disclaimer of Warranty: The scripts and files in this repository are provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the owner be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the scripts or the use or other dealings in the scripts.
+
+6. Contact Information: For any questions or to seek permissions for use, please contact us at ilario.capone1942@protonmail.com.
+
+7. Acceptance: By using the scripts and files in this repository, you agree to abide by the terms and conditions outlined in this license.
+
+8. Updates to License: Quasar Games team reserves the right to update this license at any time. Users are advised to review the license periodically for any changes.
+
+9. Legal Jurisdiction: This license shall be governed by and construed in accordance with the laws of France.
